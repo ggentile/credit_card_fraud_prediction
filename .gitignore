@@ -1,3 +1,7 @@
 .venv
 data/
 results/.jupyter_config/
+results/.jupyter_data/
+results/.jupyter_runtime/
+results/.keras/
+results/.matplotlib/
